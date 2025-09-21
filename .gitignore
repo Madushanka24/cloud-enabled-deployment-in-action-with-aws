@@ -16,3 +16,5 @@ frontend-app/dist/
 # Media data
 media-service/data/
 data/
+config.bat
+node_modules
